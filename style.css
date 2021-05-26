@@ -1,0 +1,9 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+#iconBlack {
+  width: 128px;
+  border: 1px solid black;
+  overflow: hidden;
+}
